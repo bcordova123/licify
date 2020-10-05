@@ -1,0 +1,8 @@
+[18-Jun-2019 10:29:02 America/Santiago] PHP Fatal error:  Call to a member function login() on null in /home4/adonisweb/public_html/california/application/controllers/Auth.php on line 27
+[18-Jun-2019 13:59:46 America/Santiago] PHP Fatal error:  Call to undefined function format() in /home4/adonisweb/public_html/california/application/controllers/Auth.php on line 77
+[19-Jun-2019 10:55:27 America/Santiago] PHP Fatal error:  Call to a member function userdata() on null in /home4/adonisweb/public_html/california/application/views/comun/menu.php on line 11
+[19-Jun-2019 10:55:28 America/Santiago] PHP Fatal error:  Call to a member function userdata() on null in /home4/adonisweb/public_html/california/application/views/comun/menu.php on line 11
+[19-Jun-2019 14:58:08 America/Santiago] PHP Fatal error:  Call to a member function uuid() on null in /home4/adonisweb/public_html/california/application/controllers/Usuarios.php on line 33
+[19-Jun-2019 14:58:57 America/Santiago] PHP Fatal error:  Call to a member function uuid() on null in /home4/adonisweb/public_html/california/application/controllers/Usuarios.php on line 33
+[19-Jun-2019 16:53:01 America/Santiago] PHP Parse error:  syntax error, unexpected '.' in /home4/adonisweb/public_html/california/application/controllers/Usuarios.php on line 32
+[20-Jun-2019 09:52:41 America/Santiago] PHP Fatal error:  Cannot use [] for reading in /home4/adonisweb/public_html/california/application/controllers/Usuarios.php on line 116

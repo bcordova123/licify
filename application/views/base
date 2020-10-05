@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <title>California - Login</title>
+    <?php
+    $this->load->view('comun/css'); 
+    ?>
+</head>
+
+<body id="page-top">
+    <?php
+        $this->load->view('comun/navbar'); 
+    ?>
+    <div id="wrapper">
+        <?php
+            $this->load->view('comun/menu'); 
+        ?>
+        <!--START CONTENT-->
+        <div id="content-wrapper">
+        <div class="container-fluid">
+            <!-- Page Content -->
+            <h1><?=$page_name?></h1>
+            <hr>
+            <?php //PON TU CÓDIGO ACÁ ?>
+            
+            <p>This is a great starting point for new custom pages.</p>
+
+            <?php //TERMINA TU CÓDIGO ACÁ ?>
+        </div>
+        </div>
+        <!--END CONTENT-->
+    </div>
+    <?php 
+    $this->load->view('comun/footer');
+    $this->load->view('comun/js');
+    ?>
+
+    <script>
+  
+    </script>
+</body>
+</html>
